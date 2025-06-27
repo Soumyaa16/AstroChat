@@ -27,5 +27,5 @@ While the GitHub contributor list reflects my collaborators' accounts (as the co
 - Dataset preparation and training strategy
 - Contrubting to the research paper that resulted from this project
 
-I take full responsibility for the above parts and am happy to discuss or demonstrate my work further.
+I take full responsibility for the above parts and am happy to discuss my work further.
 
