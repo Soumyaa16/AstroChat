@@ -20,6 +20,7 @@ Use following commands:
  - cd front-svelte/
  - npm run dev
 
+### **IMPORTANT NOTE**
 This project was originally developed collaboratively with 2 more peers and is hosted at (https://github.com/Soumyaa16/AstroChat).
 While the GitHub contributor list reflects my collaborators' accounts (as the code was committed from a shared device), the following major components were conceptualized and implemented by me:
 - Designing the core architecture of the chatbot system
