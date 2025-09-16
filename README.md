@@ -13,12 +13,12 @@ To get started with AstroChat, follow these steps:
 ## To Run on Local Host 
 Use following commands:
 ### For fast api: 
- - cd api-fast/
- - uvicorn main:app --reload
+1) `cd api-fast/`
+2) `uvicorn main:app --reload`
 
 ### For svelte:
- - cd front-svelte/
- - npm run dev
+1) `cd front-svelte/`
+2) `npm run dev`
 
 ### **IMPORTANT NOTE**
 This project was originally developed collaboratively with 2 more peers and is hosted at (https://github.com/Soumyaa16/AstroChat).
