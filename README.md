@@ -7,21 +7,26 @@ AstroChat is an advanced NLP-based chatbot aimed at improving efficiency and acc
 
 ## Getting Started
 To get started with AstroChat, follow these steps:
-+ Clone the repository: git clone https://github.com/Soumyaa16/AstroChat.git
-+ Install dependencies: pip install -r requirements.txt
-
-## To Run on Local Host 
++ Clone the repository
++ Install dependencies:
+```
+ pip install -r requirements.txt
+```
+## To run locally 
 Use following commands:
-### For fast api: 
-1) `cd api-fast/`
-2) `uvicorn main:app --reload`
+### For Fast API: 
+``` 
+cd api-fast/
+uvicorn main:app --reload
+```
 
-### For svelte:
-1) `cd front-svelte/`
-2) `npm run dev`
-
+### For Svelte:
+```
+cd front-svelte/
+npm run dev
+```
 ### **IMPORTANT NOTE**
-This project was originally developed collaboratively with 2 more peers and is hosted at (https://github.com/Soumyaa16/AstroChat).
+This project was originally developed collaboratively with 2 more peers and is located on their [GitHub](https://github.com/Soumyaa16/AstroChat).
 While the GitHub contributor list reflects my collaborators' accounts (as the code was committed from a shared device), the following major components were conceptualized and implemented by me:
 - Designing the core architecture of the chatbot system
 - Implementing NLP pipelines using the T5 transformer model
