@@ -25,13 +25,4 @@ uvicorn main:app --reload
 cd front-svelte/
 npm run dev
 ```
-### **IMPORTANT NOTE**
-This project was originally developed collaboratively with 2 more peers and is located on their [GitHub](https://github.com/Soumyaa16/AstroChat).
-While the GitHub contributor list reflects my collaborators' accounts (as the code was committed from a shared device), the following major components were conceptualized and implemented by me:
-- Designing the core architecture of the chatbot system
-- Implementing NLP pipelines using the T5 transformer model
-- Dataset preparation and training strategy
-- Contrubting to the research paper that resulted from this project
-
-I take full responsibility for the above parts and am happy to discuss my work further.
 
